@@ -4,6 +4,9 @@ My name is Larry Bert Mahumot, I’m a student from the Coursera Philippines and
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/larrymahumot/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/larry_mahumot) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larry-bert-mahumot-06027767/) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/larrymahumot) 
 
+![GitHub Follow](https://img.shields.io/github/followers/larrymahumot.svg?style=social&label=Follow)
+![GitHub Star](https://img.shields.io/github/stars/larrymahumot?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
+
  ## :headphones: Spotify Playing
 
 [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/68k4R2WLQ6mWSybS75OFaC#_=_) <br>
