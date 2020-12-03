@@ -44,7 +44,12 @@ My name is Larry Bert Mahumot, I’m a student from the Coursera Philippines and
 
 <hr>
 
+## Statistics
 
+<details close>
+<summary>:zap: GitHub Statistics</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&theme=nord" width="400px">
+</details>
 
 
 
