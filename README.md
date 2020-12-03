@@ -1,6 +1,6 @@
 # Hi, I'm Larry Bert Mahumot <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Larry Bert Mahumot, I’m a student from the Coursera Philippines and want to learn Data Science. I think it will be beneficial for my work. 
+My name is Larry Bert Mahumot, I’m a student from the Coursera Philippines and want to learn Google IT Automation, Data Science, Data Analyst, Cloud Solutions Arcchitech, Cyber Security. I think it will be beneficial for my work. 
 
 📫 How to reach me
 
