@@ -6,7 +6,9 @@ My name is Larry Bert Mahumot, I’m a student from the Coursera Philippines and
 
  ## :headphones: Spotify Playing
 
-[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/68k4R2WLQ6mWSybS75OFaC#_=_)
+[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/68k4R2WLQ6mWSybS75OFaC#_=_) <br>
+
+
 ⚙ Tools and Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
