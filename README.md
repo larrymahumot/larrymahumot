@@ -14,6 +14,7 @@ My name is Larry Bert Mahumot, I’m a student from the Coursera Philippines and
 [![Coursera](https://img.shields.io/badge/--dev?label=Coursera&logo=coursera&style=social)](https://www.coursera.org/user/ba13c68072bfb7f15e9da8a093b99aca)
 [![Qwiklabs](https://img.shields.io/badge/--dev?label=Qwiklabs&logo=qwiklabs&style=social)](https://www.qwiklabs.com/public_profiles/5bb2a3d1-3437-42e9-8a93-6f2e53cc3648)
 
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
  ## :headphones: Spotify Playing
 
