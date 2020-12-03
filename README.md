@@ -1,6 +1,6 @@
 # Hi, I'm Larry Bert Mahumot <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Larry Bert Mahumot, I’m a student from the Coursera Philippines and want to learn Data Science. I think it will be beneficial for my work. I'm a responsible and receptive student who seek position in Cloud Solution.
+My name is Larry Bert Mahumot, I’m a student from the Coursera Philippines and want to learn Data Science. I think it will be beneficial for my work. I'm a responsible and receptive student who seek position in Cloud Solution. <br>
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/larrymahumot/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/larry_mahumot) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larry-bert-mahumot-06027767/) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/larrymahumot) 
 
 
