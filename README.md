@@ -1,6 +1,6 @@
 # Hi, I'm Larry Bert Mahumot <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Larry Bert Mahumot, I’m a student from the Coursera Philippines and want to learn Data Science. I think it will be beneficial for my work. I'm a responsible and receptive student who seek position in Cloud Solution. <br>
+My name is Larry Bert Mahumot, I’m a student from the Coursera Philippines and want to learn Data Science. I think it will be beneficial for my work. 
 
 📫 How to reach me
 
@@ -13,7 +13,7 @@ My name is Larry Bert Mahumot, I’m a student from the Coursera Philippines and
 
 [![Coursera](https://img.shields.io/badge/--dev?label=Coursera&logo=coursera&style=social)](https://www.coursera.org/user/ba13c68072bfb7f15e9da8a093b99aca)
 [![Qwiklabs](https://img.shields.io/badge/--dev?label=Qwiklabs&logo=qwiklabs&style=social)](https://www.qwiklabs.com/public_profiles/5bb2a3d1-3437-42e9-8a93-6f2e53cc3648)
-
+[![Udemy](https://img.shields.io/badge/--dev?label=udemy&logo=udeymy&style=social)](https://www.qwiklabs.com/public_profiles/5bb2a3d1-3437-42e9-8a93-6f2e53cc3648)
 
  ## :headphones: Spotify Playing
 
