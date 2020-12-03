@@ -44,12 +44,8 @@ My name is Larry Bert Mahumot, I’m a student from the Coursera Philippines and
 
 <hr>
 
-## Statistics
 
-<details>
-    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
-[![Larry Bert Mahumot Github Stats](https://readme-stats.larrymahumot.com/api?username=larrymahumot&show_icons=true&count_private=true)](https://github.com/larrymahumot/github-readme-stats) [![Top Language](https://readme-stats.larrymahumot.com/api/top-langs?username=larrymahumot&layout=compact)](https://github.com/larrymahumot/github-readme-stats)
-</details>
+
 
 
 
