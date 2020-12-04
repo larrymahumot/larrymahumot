@@ -44,7 +44,7 @@ I’m a student from the Coursera Philippines and want to learn Google IT Automa
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat)
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat)
-![AWS](https://img.shields.io/badge/-AWS-Pink)
+![AWS](https://img.shields.io/badge/-AWS-Pink-333333?style=flat&logo=aws)
 
 <hr>
 
