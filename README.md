@@ -25,6 +25,7 @@ I’m a student from the Coursera Philippines and want to learn Google IT Automa
 
 ⚙ Tools and Technologies
 
+![AWS Cloud](https://img.shields.io/badge/-AWS%20Cloud-333333?style=flat&logo=aws)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 ![IBM Cloud](https://img.shields.io/badge/-IBM%20Cloud-333333?style=flat&logo=ibm)
@@ -44,7 +45,7 @@ I’m a student from the Coursera Philippines and want to learn Google IT Automa
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat)
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat)
-![AWS Cloud](https://img.shields.io/badge/-AWS%20Cloud-333333?style=flat&logo=aws)
+
 
 <hr>
 
