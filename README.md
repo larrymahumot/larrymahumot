@@ -53,7 +53,8 @@ I’m a student from the Coursera Philippines and want to learn Google IT Automa
   <img src="https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&theme=nord" width="400px">
 </details>
 <details close>
-[![Top Language](https://readme-stats.larrymahumot.com/api/top-langs?username=larrymahumot&layout=compact)](https://github.com/larrymahumot/github-readme-stats)
+<summary>:zap: Languages</summary>
+  <img src="https://wakatime.com/share/@9ab069a4-0617-4090-a4d1-1baff8761284/f60fc92b-8226-4e6e-b6d9-0fb059596b46.svg" width="400px">
 </details>
 
 
