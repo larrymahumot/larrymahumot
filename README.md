@@ -52,6 +52,9 @@ I’m a student from the Coursera Philippines and want to learn Google IT Automa
 <summary>:zap: GitHub Statistics</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&theme=nord" width="400px">
 </details>
+<details close>
+[![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=warengonzaga&layout=compact)](https://github.com/warengonzaga/github-readme-stats)
+</details>
 
 
 
