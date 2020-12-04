@@ -36,7 +36,7 @@ I’m a student from the Coursera Philippines and want to learn Google IT Automa
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Fork](https://img.shields.io/badge/-Fork-333333?style=flat&logo=Fork)
+![Fork](https://img.shields.io/badge/-Fork-333333?style=flat&logo=fork)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom)
 ![Sublime](https://img.shields.io/badge/-Sublime%20-333333?style=flat&logo=sublime-text)
