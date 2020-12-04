@@ -25,9 +25,9 @@ I’m a student from the Coursera Philippines and want to learn Google IT Automa
 
 ⚙ Tools and Technologies
 
-![AWS Cloud](https://img.shields.io/badge/-AWS%20Cloud-333333?style=flat&logo=aws)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
+![AWS Cloud](https://img.shields.io/badge/-AWS%20Cloud-333333?style=flat&logo=aws)
 ![IBM Cloud](https://img.shields.io/badge/-IBM%20Cloud-333333?style=flat&logo=ibm)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
