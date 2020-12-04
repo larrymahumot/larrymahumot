@@ -1,6 +1,6 @@
 # Hi, I'm Larry Bert Mahumot <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I’m a student from the Coursera Philippines and want to learn Google IT Automation, Data Science, Data Analyst, Cloud Solutions Architech, Cyber Security Analyst. I think it will be beneficial for my work. 
+I’m a student from the Coursera Philippines and want to learn Google IT Automation, Data Science, Data Analyst, Google Cloud, AWS Cloud Solutions Architech, Cyber Security Analyst. I think it will be beneficial for my work. 
 
 📫 How to reach me
 
