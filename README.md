@@ -19,7 +19,7 @@ I’m a student from the Coursera Philippines and want to learn Google IT Automa
  ## :headphones: Spotify Playing
 
 [![Favorite Music](https://img.shields.io/badge/Favorite%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/68k4R2WLQ6mWSybS75OFaC#_=_)<br>
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/68k4R2WLQ6mWSybS75OFaC#_=_)<br>
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/68k4R2WLQ6mWSybS75OFaC#_=_)
 [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ)
 
 
