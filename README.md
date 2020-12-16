@@ -1,6 +1,6 @@
 # Hi, I'm Larry Bert Germino Mahumot <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am student from the Coursera Philippines... I want to learn Google IT Automation, Google IT Support, Data Science, Data Analyst, Google Cloud, AWS Cloud Solutions Architech, Cyber Security Analyst, Linux Administrator. I think it will be beneficial for my work. 
+Networking with a huge interest in Aws Cloud, Cyber Security, IT Support, IT Automation, Linux Administrator, Data Science, Machine Learning and Big Data Analysis MOOCs lover as you can see!
 
 📫 How to reach me
 
