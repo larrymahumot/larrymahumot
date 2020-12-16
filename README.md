@@ -1,6 +1,6 @@
 # Hi, I'm Larry Bert Germino Mahumot <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Networking with a huge interest in Aws Cloud, Cyber Security, IT Support, IT Automation, Linux Administrator, Data Science, Machine Learning and Big Data Analysis MOOCs lover as you can see!
+Networking and Developer with a huge interest in Aws Cloud, Cyber Security, IT Support, IT Automation, Linux Administrator, Data Science, Machine Learning and Big Data Analysis MOOCs lover as you can see!
 
 📫 How to reach me
 
