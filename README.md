@@ -53,7 +53,7 @@ Cloud and Networking with a huge interest in Aws Cloud, Cyber Security, IT Suppo
 ## Statistics
 
 <p>&nbsp;<img align="Left" src="https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&locale=en" alt="larrymahumot"/></p>
-<p><img align="Left" src="https://github-readme-stats.vercel.app/api/top-langs?username=larrymahumot&show_icons=true&locale=en&layout=compact" alt="larrymahumot" /></p>
+<p><img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=larrymahumot&show_icons=true&locale=en&layout=compact" alt="larrymahumot" /></p>
 <img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=larrymahumot&" alt="larrymahumot" /></p>
 
 
