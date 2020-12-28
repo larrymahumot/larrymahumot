@@ -52,14 +52,9 @@ Cloud and Networking with a huge interest in Aws Cloud, Cyber Security, IT Suppo
 
 ## Statistics
 
-<details close>
-<summary>:zap: GitHub Statistics</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&theme=nord" width="400px">
-</details>
-<details close>
-<summary>:zap: Languages</summary>
-  <img src="https://wakatime.com/share/@9ab069a4-0617-4090-a4d1-1baff8761284/f60fc92b-8226-4e6e-b6d9-0fb059596b46.svg" width="400px">
-</details>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fonderelite&show_icons=true&locale=en&layout=compact" alt="fonderelite" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fonderelite&show_icons=true&locale=en" alt="fonderelite" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fonderelite&" alt="fonderelite" /></p>
 
 
 
