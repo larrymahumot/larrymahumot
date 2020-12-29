@@ -17,6 +17,7 @@ Cloud and Networking with a huge interest Cyber Security, IT Support, IT Automat
 [![AWS](https://img.shields.io/badge/--dev?label=amazon&logo=amazon&style=social)](https://www.aws.training/)
 [![IBM](https://img.shields.io/badge/--dev?label=IBM&logo=IBM&style=social)](https://myibm.ibm.com/)
 [![CISCO](https://img.shields.io/badge/--dev?label=CISCO&logo=CISCO&style=social/)](https://www.netacad.com/)
+[![MICROSOFT](https://img.shields.io/badge/--dev?label=Microsoft&logo=Microsoft&style=social/)]
 
 
 
