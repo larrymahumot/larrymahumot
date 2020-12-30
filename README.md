@@ -68,8 +68,6 @@ A human being who is passionate about simplifying things through technology. I G
 - Computer Hardware Systems & Components
 - People Skills & Friendly, Helpful Attitude
 
-- **Technical Practices**: *Agile*, *Test Driven Development*, *REST API Design*, *DevOps*, *PWA*
-
 ## :trophy: GitHub Awards:
 
 <p align="left">
