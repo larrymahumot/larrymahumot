@@ -73,7 +73,6 @@ A human being who is passionate about simplifying things through technology. I G
 ## :trophy: GitHub Awards:
 
 <p align="left">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=larrymahumot&label=Profile%20views&color=0e75b6&style=flat" alt="larrymahumot" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=larrymahumot" alt="larrymahumot" /></a> </p>
 
 ## :gear: Statistics:
@@ -91,7 +90,7 @@ A human being who is passionate about simplifying things through technology. I G
 ### :hugs: Thank You!
 
 Thank you so much for visiting my tiny space on [GitHub](https://github.com/larrymahumot)! :v:
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=larrymahumot&label=Profile%20views&color=0e75b6&style=flat" alt="larrymahumot" /> </p>
 
 
 
