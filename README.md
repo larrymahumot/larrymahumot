@@ -4,19 +4,21 @@ Cloud and Networking with a huge interest: Cyber Security, IT Support, IT Automa
 
 📫 How to reach me
 
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/larrymahumot/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/larrymahumot) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larry-bert-mahumot-06027767/) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/larrymahumot) 
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/larrymahumot/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/larrymahumot) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larry-bert-mahumot-06027767/) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/larrymahumot)
+
 
 ![GitHub Follow](https://img.shields.io/github/followers/larrymahumot.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/larrymahumot?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 
-<p align="left">
-<a href="https://dev.to/larrymahumot" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="larrymahumot" height="30" width="30" /></a>
-<a href="https://twitter.com/larrymahumot" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="larrymahumot" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/larry-bert-mahumot-06027767/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/larry-bert-mahumot-06027767/" height="30" width="30" /></a>
+
+
+<p>
+<a href="https://dev.to/larrymahumot" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="larrymahumot" height="30" width="30" /></a><a href="https://twitter.com/larrymahumot" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="larrymahumot" height="30" width="30" /></a><a href="https://www.linkedin.com/in/larry-bert-mahumot-06027767/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/larry-bert-mahumot-06027767/" height="30" width="30" /></a>
 <img align="left" src="https://komarev.com/ghpvc/?username=larrymahumot" alt="larrymahumot" />
 </p>
 
-<br>
+
+
 
 👨‍💻 My other profiles
 
