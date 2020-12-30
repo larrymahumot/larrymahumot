@@ -60,9 +60,10 @@ Cloud and Networking with a huge interest: Cyber Security, IT Support, IT Automa
 
 ⚙ Statistics
 
-<p>&nbsp;<img align="Left" src="https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&locale=en" alt="larrymahumot"/></p>
-<img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=larrymahumot&" alt="larrymahumot" /></p>
-<p><img align="Left" src="https://github-readme-stats.vercel.app/api/top-langs?username=larrymahumot&show_icons=true&locale=en&layout=compact" alt="larrymahumot" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrymahumot&layout=compact&hide=html" alt="larrymahumot" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&count_private=true" alt="larrymahumot" width="50%"/></p>
+
+
 
 
 
