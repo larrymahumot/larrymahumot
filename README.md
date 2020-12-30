@@ -59,6 +59,9 @@ Cloud and Networking with a huge interest: Cyber Security, IT Support, IT Automa
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larrymahumot&label=Profile%20views&color=0e75b6&style=flat" alt="larrymahumot" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=larrymahumot" alt="larrymahumot" /></a> </p>
 
+### :octocat: Open Source
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/larrymahumot) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/larrymahumot)
 
 **Say Hi on Twitter([@larrymahumot](https://twitter.com/larrymahumot))!** :heart: 💬
 
