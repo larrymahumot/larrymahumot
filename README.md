@@ -1,6 +1,6 @@
 # Hi, I'm Larry <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-A human being who is passionate about simplifying things through technology. I Graduated [STI](https://www.sti.edu/) BS Information Technology | 2013, [SFXC](https://sfxc.edu.ph/) BS Office Administration | 2019, Diploma in Computer and Electronics Technology | 2010. Currently I am working as a Network System Administrator at Gemstar Cable TV and Internet Services. I work with all kinds of modern Cloud and Networking with a huge interest; Php, JavaScript, Linux, Cyber Security, IT Support, IT Automation, Linux Administrator, Aws Cloud, Cloud Engineer, Data Engineer, Data Science, Machine Learning and Big Data Analysis other MOOCs lover as you can see!
+A human being who is passionate about simplifying things through technology. I Graduated [STI](https://www.sti.edu/) BS Information Technology | 2013, [SFXC](https://sfxc.edu.ph/) BS Office Administration | 2019, [STI](https://www.sti.edu/) Diploma in Computer and Electronics Technology | 2010. Currently I am working as a Network System Administrator at Gemstar Cable TV and Internet Services. I work with all kinds of modern Cloud and Networking with a huge interest; Php, JavaScript, Linux, Cyber Security, IT Support, IT Automation, Linux Administrator, Aws Cloud, Cloud Engineer, Data Engineer, Data Science, Machine Learning and Big Data Analysis other MOOCs lover as you can see!
 
 📫 How to reach me
 
