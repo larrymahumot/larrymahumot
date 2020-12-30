@@ -57,7 +57,7 @@ Cloud and Networking with a huge interest: Cyber Security, IT Support, IT Automa
 
 ### GitHub Awards
 
-<p align="left"> <a href="https://github.com/larrymahumot/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=larrymahumot" alt="larrymahumot" /></a> </p>
+<p align="left"> <a href="https://github.com/larrymahumot/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=larrymahumot" alt="larrymahumot" /></a> </p><p><img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=larrymahumot&" alt="larrymahumot" /></p>
 
 ### Statistics
 
@@ -69,6 +69,7 @@ Cloud and Networking with a huge interest: Cyber Security, IT Support, IT Automa
 <a href="https://www.linkedin.com/in/larry-bert-mahumot-06027767/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/larry-bert-mahumot-06027767/" height="30" width="30" /></a>
 <img align="center" src="https://komarev.com/ghpvc/?username=larrymahumot" alt="larrymahumot" />
 </p>
+
 
 
 
