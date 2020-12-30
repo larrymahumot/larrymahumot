@@ -5,9 +5,11 @@ Cloud and Networking with a huge interest: Cyber Security, IT Support, IT Automa
 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@larrymahumot&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/larry-bert-mahumot-06027767/)
-[![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/larrymahumot)
+[![DEV](https://img.shields.io/static/v1.svg?label=DEV&message=@larrymahumot&logo=DEV&style=flat&color=white)](https://dev.to/larrymahumot)
 
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/larrymahumot/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/larrymahumot) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larry-bert-mahumot-06027767/) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/larrymahumot) 
+
+
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/larrymahumot/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/larrymahumot) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larry-bert-mahumot-06027767/) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/larrymahumot) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/larrymahumot) 
 
 
 ![GitHub Follow](https://img.shields.io/github/followers/larrymahumot.svg?style=social&label=Follow)
