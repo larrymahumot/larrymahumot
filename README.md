@@ -54,6 +54,20 @@ A human being who is passionate about simplifying things through technology. I G
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat)
 
+## :gear: My skills include:
+
+- **Languages**: `C`, `C++`, `JavaScript`
+
+- **Frontend**: `React`, `Redux`, `MobX`, `SASS`, `Webpack`
+
+- **Backend**: `Node.js`, `Express`, `Sails`, `PHP`
+
+- **Databases**: `MySQL`, `MongoDB`
+
+- **Testing frameworks**: `Mocha`, `Chai`, `Jasmine`
+
+- **Technical Practices**: *Agile*, *Test Driven Development*, *REST API Design*, *DevOps*, *PWA*
+
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larrymahumot&label=Profile%20views&color=0e75b6&style=flat" alt="larrymahumot" /> </p>
