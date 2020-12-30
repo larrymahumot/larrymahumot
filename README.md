@@ -58,12 +58,15 @@ Cloud and Networking with a huge interest: Cyber Security, IT Support, IT Automa
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larrymahumot&label=Profile%20views&color=0e75b6&style=flat" alt="larrymahumot" /> </p>
 <p align="left"> <a href="https://github.com/larrymahumot/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=larrymahumot" alt="larrymahumot" /></a> </p>
 
-⚙ Statistics
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrymahumot&layout=compact&hide=html" alt="larrymahumot" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&count_private=true" alt="larrymahumot" width="50%"/></p>
-
-
+<p align="center">
+<a href="https://dev.to/larrymahumot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="larrymahumot" height="30" width="30" /></a>
+<a href="https://twitter.com/larrymahumot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="larrymahumot" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/larry-bert-mahumot-06027767/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/larry-bert-mahumot-06027767/" height="30" width="30" /></a>
+<img align="center" src="https://komarev.com/ghpvc/?username=larrymahumot" alt="larrymahumot" />
+</p>
 
 
 
