@@ -68,11 +68,7 @@ Cloud and Networking with a huge interest: Cyber Security, IT Support, IT Automa
 <p align="center">
  
  
-<a href="https://dev.to/larrymahumot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="larrymahumot" height="30" width="30" /></a>
-<a href="https://twitter.com/larrymahumot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="larrymahumot" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/larry-bert-mahumot-06027767/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/larry-bert-mahumot-06027767/" height="30" width="30" /></a>
-<img align="center" src="https://komarev.com/ghpvc/?username=larrymahumot" alt="larrymahumot" />
-</p>
+
 
 
 
