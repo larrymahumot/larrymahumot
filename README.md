@@ -5,7 +5,8 @@ Cloud and Networking with a huge interest: Cyber Security, IT Support, IT Automa
 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@larrymahumot&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/larry-bert-mahumot-06027767/)
-[![DEV](https://img.shields.io/static/v1.svg?label=DEV&message=@larrymahumot&logo=DEV&style=flat&color=white)](https://dev.to/larrymahumot)
+[![DEV](https://img.shields.io/static/v1.svg?label=DEV&message=@larrymahumot&logo=DEV&style=flat&color=blue)](https://dev.to/larrymahumot)
+
 
 
 
