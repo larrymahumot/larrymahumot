@@ -9,6 +9,15 @@ Cloud and Networking with a huge interest: Cyber Security, IT Support, IT Automa
 ![GitHub Follow](https://img.shields.io/github/followers/larrymahumot.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/larrymahumot?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 
+<p align="left">
+<a href="https://dev.to/larrymahumot" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="larrymahumot" height="30" width="30" /></a>
+<a href="https://twitter.com/larrymahumot" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="larrymahumot" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/larry-bert-mahumot-06027767/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/larry-bert-mahumot-06027767/" height="30" width="30" /></a>
+<img align="left" src="https://komarev.com/ghpvc/?username=larrymahumot" alt="larrymahumot" />
+</p>
+
+
+
 👨‍💻 My other profiles
 
 [![Coursera](https://img.shields.io/badge/--dev?label=Coursera&logo=coursera&style=social)](https://www.coursera.org/user/ba13c68072bfb7f15e9da8a093b99aca)
@@ -19,12 +28,6 @@ Cloud and Networking with a huge interest: Cyber Security, IT Support, IT Automa
 [![CISCO](https://img.shields.io/badge/--dev?label=CISCO&logo=CISCO&style=social/)](https://www.netacad.com/)
 [![MICROSOFT](https://img.shields.io/badge/--dev?label=Microsoft&logo=Microsoft&style=social/)](https://www.training.nttdataph.com/)
 
-<p align="center">
-<a href="https://dev.to/larrymahumot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="larrymahumot" height="30" width="30" /></a>
-<a href="https://twitter.com/larrymahumot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="larrymahumot" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/larry-bert-mahumot-06027767/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/larry-bert-mahumot-06027767/" height="30" width="30" /></a>
-<img align="center" src="https://komarev.com/ghpvc/?username=larrymahumot" alt="larrymahumot" />
-</p>
 
  ## :headphones: Spotify Playing
 
