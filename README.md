@@ -19,7 +19,12 @@ Cloud and Networking with a huge interest: Cyber Security, IT Support, IT Automa
 [![CISCO](https://img.shields.io/badge/--dev?label=CISCO&logo=CISCO&style=social/)](https://www.netacad.com/)
 [![MICROSOFT](https://img.shields.io/badge/--dev?label=Microsoft&logo=Microsoft&style=social/)](https://www.training.nttdataph.com/)
 
-
+<p align="center">
+<a href="https://dev.to/larrymahumot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="larrymahumot" height="30" width="30" /></a>
+<a href="https://twitter.com/larrymahumot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="larrymahumot" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/larry-bert-mahumot-06027767/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/larry-bert-mahumot-06027767/" height="30" width="30" /></a>
+<img align="center" src="https://komarev.com/ghpvc/?username=larrymahumot" alt="larrymahumot" />
+</p>
 
  ## :headphones: Spotify Playing
 
@@ -61,15 +66,6 @@ Cloud and Networking with a huge interest: Cyber Security, IT Support, IT Automa
 
 <p>&nbsp;<img align="Left" src="https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&locale=en" alt="larrymahumot"/></p>
 <img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=larrymahumot&" alt="larrymahumot" /></p>
-
-
-<p align="center">
-<a href="https://dev.to/larrymahumot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="larrymahumot" height="30" width="30" /></a>
-<a href="https://twitter.com/larrymahumot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="larrymahumot" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/larry-bert-mahumot-06027767/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/larry-bert-mahumot-06027767/" height="30" width="30" /></a>
-<img align="center" src="https://komarev.com/ghpvc/?username=larrymahumot" alt="larrymahumot" />
-</p>
-
 <p><img align="Left" src="https://github-readme-stats.vercel.app/api/top-langs?username=larrymahumot&show_icons=true&locale=en&layout=compact" alt="larrymahumot" /></p>
 
 
