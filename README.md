@@ -21,9 +21,6 @@ Cloud and Networking with a huge interest: Cyber Security, IT Support, IT Automa
 [![CISCO](https://img.shields.io/badge/--dev?label=CISCO&logo=CISCO&style=social/)](https://www.netacad.com/)
 [![MICROSOFT](https://img.shields.io/badge/--dev?label=Microsoft&logo=Microsoft&style=social/)](https://www.training.nttdataph.com/)
 
-## 🏁CTF Platforms
-#### Hack The Box
-![htb](https://www.hackthebox.eu/badge/image/460570)
 
  ## :headphones: Spotify Playing
 
