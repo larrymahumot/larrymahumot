@@ -1,14 +1,8 @@
 # Hi, I'm Larry <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Cloud and Networking with a huge interest: Cyber Security, IT Support, IT Automation, Linux Administrator, Aws Cloud, Cloud Engineer, Data Engineer, Data Science, Machine Learning and Big Data Analysis other MOOCs lover as you can see!
+A human being who is passionate about simplifying things through technology. I Graduated [STI](https://www.sti.edu/) BS Information Technology | 2013, [SFXC](https://sfxc.edu.ph/) BS Office Administration | 2019, Diploma in Computer and Electronics Technology | 2010. Currently I am working as a Network System Administrator at Gemstar Cable TV and Internet Services. I work with all kinds of modern Cloud and Networking with a huge interest; Php, JavaScript, Linux, Cyber Security, IT Support, IT Automation, Linux Administrator, Aws Cloud, Cloud Engineer, Data Engineer, Data Science, Machine Learning and Big Data Analysis other MOOCs lover as you can see!
 
 📫 How to reach me
-
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@larrymahumot&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/larry-bert-mahumot-06027767/)
-[![DEV](https://img.shields.io/static/v1.svg?label=DEV&message=@larrymahumot&logo=DEV&style=flat&color=blue)](https://dev.to/larrymahumot)
-
-
-
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/larrymahumot/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/larrymahumot) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larry-bert-mahumot-06027767/) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/larrymahumot) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/larrymahumot) 
 
