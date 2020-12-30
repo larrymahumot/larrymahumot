@@ -54,19 +54,23 @@ A human being who is passionate about simplifying things through technology. I G
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat)
 
-## :gear: My skills include:
+## :gear: My Programming skills include:
 
 - **Languages**: `C`, `C++`, `JavaScript`
-
 - **Frontend**: `React`, `Redux`, `MobX`, `SASS`, `Webpack`
-
 - **Backend**: `Node.js`, `Express`, `Sails`, `PHP`
-
 - **Databases**: `MySQL`, `MongoDB`
-
 - **Testing frameworks**: `Mocha`, `Chai`, `Jasmine`
-
 - **Technical Practices**: *Agile*, *Test Driven Development*, *REST API Design*, *DevOps*, *PWA*
+
+## :gear: My Network skills include:
+
+- IT Troubleshooting & Problem Solving
+- Onsite & Remote Technical Support
+- Up-to-Date Knowledge of Computer Operating Systems
+- LAN & WAN Connectivity & Maintenance
+- Computer Hardware Systems & Components
+- People Skills & Friendly, Helpful Attitude
 
 <hr>
 
