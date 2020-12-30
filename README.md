@@ -56,13 +56,8 @@ Cloud and Networking with a huge interest: Cyber Security, IT Support, IT Automa
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrymahumot&layout=compact&hide=html" alt="larrymahumot" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&count_private=true" alt="larrymahumot" width="50%"/></p>
-<p align="center">
-<p>&nbsp;<img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=larrymahumot&" alt="larrymahumot" /></p>
-<p align="center">
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=larrymahumot&label=Profile%20views&color=0e75b6&style=flat" alt="larrymahumot" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=larrymahumot" alt="larrymahumot" /></a> </p>
 
  
 ### :hugs: Thank You!
