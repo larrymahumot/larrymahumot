@@ -77,12 +77,12 @@ A human being who is passionate about simplifying things through technology. I G
 
 <p align="left"><p>
 
-<img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=larrymahumot&" alt="larrymahumot"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&count_private=true" alt="larrymahumot" width="50%"/> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrymahumot&layout=compact&hide=html" alt="larrymahumot" /></p>
+<img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=larrymahumot&" alt="larrymahumot"/> <img align="left" src="https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&count_private=true" alt="larrymahumot" width="50%"/> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrymahumot&layout=compact&hide=html" alt="larrymahumot" /></p>
 
-<p align="left"><p>
+
 ### :octocat: Open Source
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/larrymahumot) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/larrymahumot) [![PRs Welcome](https://komarev.com/ghpvc/?username=larrymahumot&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/larrymahumot)</p>
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/larrymahumot) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/larrymahumot) [![PRs Welcome](https://komarev.com/ghpvc/?username=larrymahumot&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/larrymahumot)
 
 
 **Say Hi on Twitter([@larrymahumot](https://twitter.com/larrymahumot))!** :heart: 💬
