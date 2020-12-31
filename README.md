@@ -77,7 +77,7 @@ A human being who is passionate about simplifying things through technology. I G
 
 <p align="left"><p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&count_private=true" alt="larrymahumot" width="30%" height="25%"/> <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=larrymahumot&" alt="larrymahumot" width="30%" height="25%"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrymahumot&layout=compact&hide=html" alt="larrymahumot" width="30%" height="25%"/></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&count_private=true" alt="larrymahumot" width="35%" height="25%"/> <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=larrymahumot&" alt="larrymahumot" width="35%" height="25%"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrymahumot&layout=compact&hide=html" alt="larrymahumot" width="35%" height="25%"/></p>
 
 
 ### :octocat: Open Source
