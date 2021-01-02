@@ -56,7 +56,7 @@ A human being who is passionate about simplifying things through technology. I G
 
 ## :gear: My skills include:
 
-- **Languages**: `Python`, `C`, `C++`, `JavaScript`
+- **Languages**: `Python`, `C`, `C++`, `JavaScript`, `Go`, `VS`, `Java`, `php`
 - **Frontend**: `React`, `Redux`, `MobX`, `SASS`, `Webpack`
 - **Backend**: `Node.js`, `Express`, `Sails`, `PHP`
 - **Databases**: `MySQL`, `MongoDB`
