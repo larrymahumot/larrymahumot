@@ -56,17 +56,32 @@ A human being who is passionate about simplifying things through technology. I G
 
 ## :gear: My skills include:
 
+💻 PROGRAMMING:
+
 - **Languages**: `Python`, `C`, `C++`, `JavaScript`, `Go`, `VS`, `Java`, `php`
 - **Frontend**: `React`, `Redux`, `MobX`, `SASS`, `Webpack`
 - **Backend**: `Node.js`, `Express`, `Sails`, `PHP`
 - **Databases**: `MySQL`, `MongoDB`
 - **Testing frameworks**: `Mocha`, `Chai`, `Jasmine`
+
+💻 NETWORKING:
+
 - IT Troubleshooting & Problem Solving
 - Onsite & Remote Technical Support
 - Up-to-Date Knowledge of Computer Operating Systems
 - LAN & WAN Connectivity & Maintenance
 - Computer Hardware Systems & Components
 - People Skills & Friendly, Helpful Attitude
+
+💻 APPLICATION:
+
+- **Adobe Editor**: `Adobe Photoshop`, `Adobe Illustrator`, 
+- **Video Editor**: `Adobe Premiere`, `Power Director`, `Movie Edit Pro`, `Filmora`, `WonderShare`
+
+💻 OPERATING SYSTEM:
+
+- **Operating System**: `Windows 98 & Beta`,`Windows xp`, `Windows 2003 Server`,`Windows 2008 Server`, `Windows 2016 Server`
+- **Linux & FreeBSD**: `RedHat`, `FreeBSD`, `Pfsense`, `CentOS`, `Fedora`, `Ubuntu`, `Kali`, `Parrot`
 
 ## :trophy: GitHub Awards:
 
