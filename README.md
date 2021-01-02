@@ -72,13 +72,13 @@ A human being who is passionate about simplifying things through technology. I G
 - Up-to-Date Knowledge of Computer Operating Systems
 - LAN & WAN Connectivity & Maintenance
 - Computer Hardware Systems & Components
-- Installs and managed VMWare Server.
+- Installs and managed VMWare Server
 - Operate & knowledgeable: Fiber Splicing, Fusion Machine, OTDR, Analyzer, Power Meter
 - People Skills & Friendly, Helpful Attitude
 
 💻 APPLICATION:
 
-- **Adobe Editor**: `Adobe Photoshop`, `Adobe Illustrator`, 
+- **Adobe Editor**: `Adobe Photoshop`, `Adobe Illustrator`
 - **Video Editor**: `Adobe Premiere`, `Power Director`, `Movie Edit Pro`, `Filmora`, `WonderShare`
 
 💻 OPERATING SYSTEM:
