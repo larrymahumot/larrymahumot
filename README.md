@@ -54,11 +54,6 @@
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat)
 
-## :gear: Statistics:
-
-![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&theme=radical)
-![Larry Mahumot's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larrymahumot&layout=compact&hide=html)
-
 
 ## &#x1f4c8; GitHub Stats
 
@@ -69,7 +64,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Larry Bert Mahumot GitHub Stats" />
 </a>
 
-<a href="https://github.com/larrymahumot/python-project-blueprint">
+<a href="https://github.com/larrymahumot/python-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
