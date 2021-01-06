@@ -60,6 +60,7 @@
 ![Larry Mahumot's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larrymahumot&layout=compact&hide=html)
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/radical/?username=<USERNAME>&theme=dark" />
 
 
 
