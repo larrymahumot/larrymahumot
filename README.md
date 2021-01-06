@@ -1,6 +1,6 @@
 # Hi, I'm Larry <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
- - I’m currently working on Cable and Internet Company as IT Network Specialist.
+ - I’m currently working on Cable TV and Internet Company as IT Network Specialist.
 
 📫 How to reach me
 
@@ -53,43 +53,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat)
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat)
-
-## :gear: My skills include:
-
-💻 PROGRAMMING:
-
-- **Languages**: `Python`, `C`, `C++`, `JavaScript`, `Go`, `VS`, `Java`, `php`
-- **Frontend**: `React`, `Redux`, `MobX`, `SASS`, `Webpack`
-- **Backend**: `Node.js`, `Express`, `Sails`, `PHP`
-- **Databases**: `MySQL`, `MongoDB`
-- **Testing frameworks**: `Mocha`, `Chai`, `Jasmine`
-- **Tools**: `Sublime Text`, `VS Code`, `Notepad ++`, `Atom`
-
-💻 NETWORKING:
-
-- IT Troubleshooting & Problem Solving
-- Onsite & Remote Technical Support
-- Up-to-Date Knowledge of Computer Operating Systems
-- LAN & WAN Connectivity & Maintenance
-- Computer Hardware Systems & Components
-- Installs and managed VMWare Server
-- Operate & knowledgeable: Fiber Splicing, Fusion Machine, OTDR, Analyzer, Power Meter
-- People Skills & Friendly, Helpful Attitude
-
-💻 APPLICATION:
-
-- **Adobe Editor**: `Adobe Photoshop`, `Adobe Illustrator`
-- **Video Editor**: `Adobe Premiere`, `Power Director`, `Movie Edit Pro`, `Filmora`, `WonderShare`
-
-💻 OPERATING SYSTEM:
-
-- **Operating System**: `Windows 98 & Beta`,`Windows xp`, `Windows 2003 Server`,`Windows 2008 Server`, `Windows 2016 Server`
-- **Linux & FreeBSD**: `RedHat`, `FreeBSD`, `Pfsense`, `CentOS`, `Fedora`, `Ubuntu`, `Kali`, `Parrot`
-
-## :trophy: GitHub Awards:
-
-<p align="left">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=larrymahumot" alt="larrymahumot" /></a> </p>
 
 ## :gear: Statistics:
 
