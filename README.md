@@ -60,7 +60,24 @@
 ![Larry Mahumot's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larrymahumot&layout=compact&hide=html)
 
 
-<img align="center" src="github-readme-stats-eight-ivory.vercel.app/api/radical/?username=larrymahumot&theme=dark" />
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/larrymahumot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrymahumot&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/larrymahumot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Larry Bert Mahumot GitHub Stats" />
+</a>
+
+<a href="https://github.com/larrymahumot/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
 
 
 
