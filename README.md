@@ -1,6 +1,6 @@
 # Hi, I'm Larry <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
- - I work at a small company called Gemstar help building and supporting the Cable and Internet Community.
+ - I work at a small company called Gemstar help Building and Supporting the Cable TV and Internet Service Community.
 
 📫 How to reach me
 
