@@ -57,9 +57,9 @@
 ## :gear: Statistics:
 
 ![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&theme=radical)
+!![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=larrymahumot&layout=compact&hide=html)
 
-<p align="left"><p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrymahumot&layout=compact&hide=html" alt="larrymahumot" width="45%" /></p>
+
 
 
 ### :octocat: Open Source
