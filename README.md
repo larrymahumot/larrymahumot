@@ -59,8 +59,8 @@
 ![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&theme=radical)
 
 <p align="left"><p>
-<img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=larrymahumot&" alt="larrymahumot" width="50%" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrymahumot&layout=compact&hide=html" alt="larrymahumot" width="50%" /></p>
+<img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=larrymahumot&" alt="larrymahumot" width="30%" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrymahumot&layout=compact&hide=html" alt="larrymahumot" width="30%" /></p>
 
 
 ### :octocat: Open Source
