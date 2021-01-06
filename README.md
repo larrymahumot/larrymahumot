@@ -1,6 +1,6 @@
 # Hi, I'm Larry <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
- - I’m currently working on Cable TV and Internet Company as IT Network Specialist.
+ - I work at a small company called Gemstar help building and supporting the Cable and Internet Community.
 
 📫 How to reach me
 
