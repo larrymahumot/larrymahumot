@@ -56,9 +56,11 @@
 
 ## :gear: Statistics:
 
-<p align="left"><p>
+![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&theme=radical)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&count_private=true" alt="larrymahumot" width="50%" /> <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=larrymahumot&" alt="larrymahumot" width="50%" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrymahumot&layout=compact&hide=html" alt="larrymahumot" width="50%" /></p>
+<p align="left"><p>
+<img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=larrymahumot&" alt="larrymahumot" width="50%" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrymahumot&layout=compact&hide=html" alt="larrymahumot" width="50%" /></p>
 
 
 ### :octocat: Open Source
@@ -72,7 +74,7 @@
 
 Thank you so much for visiting my tiny space on [GitHub](https://github.com/larrymahumot)! :v:
 
-[![Header](https://raw.githubusercontent.com/larrymahumot/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
 
 
 
