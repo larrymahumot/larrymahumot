@@ -60,12 +60,7 @@
 ![Larry Mahumot's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larrymahumot&layout=compact&hide=html)
 
 
-<a href="https://github.com/larrymahumot/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/larrymahumot/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larrymahumot&exclude_repo=github-readme-stats,larrymahumot.github.io)](https://github.com/larrymahumot/github-readme-stats)
 
 
 ### :octocat: Open Source
