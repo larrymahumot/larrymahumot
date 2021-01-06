@@ -66,11 +66,34 @@
 <a href="https://github.com/larrymahumot/google-it-support">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=google-it-support&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
-
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/larrymahumot/google-it-automation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=google-it-automation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+
+
+
+
+![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&theme=radical)
+![Larry Mahumot's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larrymahumot&layout=compact&hide=html)
+
+
+<a href="https://github.com/larrymahumot/google-it-support">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=google-it-support&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141321" />
+</a>
+<a href="https://github.com/larrymahumot/google-it-automation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=google-it-automation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141321" />
+</a>    
+
+
+
+
+
+
+
+
+
+
+
 
 
 
