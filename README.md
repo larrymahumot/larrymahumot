@@ -60,7 +60,7 @@
 ![Larry Mahumot's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larrymahumot&layout=compact&hide=html)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larrymahumot&exclude_repo=github-readme-stats,larrymahumot.github.io)](https://github.com/larrymahumot/github-readme-stats)
+
 
 
 ### :octocat: Open Source
