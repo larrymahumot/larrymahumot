@@ -74,8 +74,6 @@
 </a>    
 
 
-
-
 ### :octocat: Open Source
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/larrymahumot) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/larrymahumot) [![PRs Welcome](https://komarev.com/ghpvc/?username=larrymahumot&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/larrymahumot)
