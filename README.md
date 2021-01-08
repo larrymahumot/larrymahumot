@@ -52,8 +52,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat)
 
 
-## &#x1f4c8; GitHub Stats
-
+## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats
 
 ![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=larrymahumot&show_icons=true&theme=radical)
 ![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&theme=radical)
