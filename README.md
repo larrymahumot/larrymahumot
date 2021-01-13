@@ -1,4 +1,4 @@
-# Hi, I'm Larry <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, I'm Larry Bert Mahumot <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - I work at a Big Company called GEMSTAR help Building and Supporting the Cable TV and Internet Service Community.
 
