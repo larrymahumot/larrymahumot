@@ -27,6 +27,10 @@ The network is reliable. Latency is zero, Bandwidth is Infinite.
 [![Aminium Music](https://img.shields.io/badge/Aminium%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/68k4R2WLQ6mWSybS75OFaC#_=_) [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ)<br>
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/68k4R2WLQ6mWSybS75OFaC#_=_)
 
+## Certificates
+<img src="Coursera 6D2ZG5UW52EE.jpg" width="50%">
+<img src="Coursera C2HRL2Y6TFJY.jpg" width="50%">
+
 ⚙ Tools and Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
