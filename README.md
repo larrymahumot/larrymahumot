@@ -1,7 +1,6 @@
 # Hi, I'm Larry Bert Mahumot <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Infrastructure Maintainer, Cyber Security Analyst, IT Network Specialist, IT Consultant. Passionate Cloud and Networking.
--The network is reliable. Latency is zero, Bandwidth is Infinite.
+The network is reliable. Latency is zero, Bandwidth is Infinite.
 
 📫 How to reach me
 
