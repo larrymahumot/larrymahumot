@@ -1,7 +1,5 @@
 # Hi, I'm Larry Bert Mahumot <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- Im a responsible and receptive student who seek position in Cloud Solution and Networking.
-
 
 📫 How to reach me
 
