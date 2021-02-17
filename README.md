@@ -15,11 +15,11 @@
 <a href="https://github.com/larrymahumot"><img src="https://img.shields.io/github/followers/larrymahumot.svg?label=GitHub&style=social" alt="GitHub"></a>
 [![Coursera](https://img.shields.io/badge/--dev?label=Coursera&logo=coursera&style=social)](https://www.coursera.org/user/ba13c68072bfb7f15e9da8a093b99aca)
 [![Qwiklabs](https://img.shields.io/badge/--dev?label=Qwiklabs&logo=qwiklabs&style=social)](https://www.qwiklabs.com/public_profiles/5bb2a3d1-3437-42e9-8a93-6f2e53cc3648)
-[![Udemy](https://img.shields.io/badge/--dev?label=udemy&logo=udemy&style=social)](https://www.udemy.com/user/larry-bert-g-mahumot/)
-[![AWS](https://img.shields.io/badge/--dev?label=amazon&logo=amazon&style=social)](https://www.aws.training/)
-[![IBM](https://img.shields.io/badge/--dev?label=IBM&logo=IBM&style=social)](https://myibm.ibm.com/)
-[![CISCO](https://img.shields.io/badge/--dev?label=CISCO&logo=CISCO&style=social/)](https://www.netacad.com/)
-[![MICROSOFT](https://img.shields.io/badge/--dev?label=Microsoft&logo=Microsoft&style=social/)](https://www.training.nttdataph.com/)
+<!--[![Udemy](https://img.shields.io/badge/--dev?label=udemy&logo=udemy&style=social)](https://www.udemy.com/user/larry-bert-g-mahumot/)-->
+<!--[![AWS](https://img.shields.io/badge/--dev?label=amazon&logo=amazon&style=social)](https://www.aws.training/)-->
+<!--[![IBM](https://img.shields.io/badge/--dev?label=IBM&logo=IBM&style=social)](https://myibm.ibm.com/)-->
+<!--[![CISCO](https://img.shields.io/badge/--dev?label=CISCO&logo=CISCO&style=social/)](https://www.netacad.com/)-->
+<!--[![MICROSOFT](https://img.shields.io/badge/--dev?label=Microsoft&logo=Microsoft&style=social/)](https://www.training.nttdataph.com/)-->
 
  ## :headphones: Spotify Playing
 
